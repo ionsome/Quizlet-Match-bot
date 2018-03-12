@@ -1,4 +1,4 @@
-answers = {"to come to a place":"arrive", "to fix something":"repair", "open the door, ant. pull":"push", "give money for some time":"lend", "take money for some time":"borrow", "opposite forget":"remember", "opposite of find":"lose", "a train, opposite miss":"catch"};// JSON with answers
+answers = {};// JSON with answers
 
 delay = 6800;
 
