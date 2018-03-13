@@ -1,7 +1,7 @@
 # Quizlet Match bot
 
 #### Avarage best time ~ 0.4 s
-
+Tested on Firefox 52.6.0
 
 # How to use:
 1. Open Flashcards, past and run answers.js in the browser console.
