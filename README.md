@@ -7,6 +7,10 @@ Tested on Firefox 52.6.0
 1. Open Flashcards, past and run answers.js in the browser console.
 2. Copy JSON and put it in the script.js
 3. Change delay.
-4. Open Match, past and run script.js in the browser console.
+4. Open match, paste and run script.js in the browser console.
+5. Press Start game.
 
-Script works only in the compact mode (when page resolution is less then 1000 x 900).
+Script works only in the micromatch game.
+
+Example of a link to the micromatch game:
+https://quizlet.com/177657897/micromatch
