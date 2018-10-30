@@ -1,6 +1,6 @@
 # Quizlet Match bot
 
-#### Avarage best time ~ 0.4 s
+#### Average best time ~ 0.4 s
 Tested on Firefox 52.6.0
 
 # How to use:
